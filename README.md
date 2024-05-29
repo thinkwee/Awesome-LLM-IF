@@ -1,5 +1,5 @@
 # Awesome-LLM-IF
-- This repo holds an awesome list of the improvement, evaluation, and theory on the IF (Instruction Following) ability of Large Language Models (LLM)
+- This repo holds an awesome list of the improvement, evaluation, and theory on the **IF (Instruction Following)** ability of Large Language Models (LLM)
 
 # Improvement
 
