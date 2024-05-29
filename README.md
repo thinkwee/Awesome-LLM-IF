@@ -1,12 +1,31 @@
-# LLM_instruct_eval
-- 专注于大模型对于中文复杂指令的理解能力评估。
-- 当前的榜单例如[SuperClue](https://www.cluebenchmarks.com/superclue.html)、[C-Eval](https://yaofu.notion.site/C-Eval-6b79edd91b454e3d8ea41c59ea2af873#6415e97403e34ba6b8b18ac6ef3ff7fc)依然通过做客观选择题的方式评估llm的中文知识能力。我们希望推出一个评估集来全面考量模型对于复杂指令的理解和遵循效果，这类考察更多在于评估llm对人类指令的语言学理解和执行，而不一定要海量的常识或者专业知识。
+# Awesome-LLM-IF
+- This repo holds an awesome list of the improvement, evaluation, and theory on the IF (Instruction Following) ability of Large Language Models (LLM)
 
-# 数据集
-- 见sample.csv
+# Improvement
 
-# 评测分类
-- TBD
+# Evaluation
+- [EVALUATING LARGE LANGUAGE MODELS AT EVALUATING INSTRUCTION FOLLOWING](https://arxiv.org/pdf/2310.07641)
+  - Tsinghua, Princeton, UIUC
+  - ICLR 2024
+  - [LLMBar](https://github.com/lyogavin/Anima)  ![](https://img.shields.io/github/stars/princeton-nlp/LLMBar.svg)
+- [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/pdf/2311.07911)
+  - Google, Yale
+  - [instruction_following_eval](https://github.com/google-research/google-research/tree/master/instruction_following_eval)
+- [FollowEval: A Multi-Dimensional Benchmark for Assessing the Instruction-Following Capability of Large Language Models](https://arxiv.org/pdf/2311.09829)
+  - Lenovo, TJU
+- [Can Large Language Models Understand Real-World Complex Instructions?](https://arxiv.org/pdf/2309.09150)
+  - Fudan, ECNU
+  - AAAI 2024
+  - [CELLO](https://github.com/Abbey4799/CELLO)  ![](https://img.shields.io/github/stars/Abbey4799/CELLO.svg)
+- [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/pdf/2310.20410)
+  - HKUST, Huawei
+  - ACL 2024
+  - [FollowBench](https://github.com/YJiangcm/FollowBench)  ![](https://img.shields.io/github/stars/YJiangcm/FollowBench.svg)
+- [Evaluating Large Language Models on Controlled Generation Tasks](https://arxiv.org/pdf/2310.14542)
+  - USC, UC, ETH, Amazon, Deepmind
+  - [llm-controlgen](https://github.com/sunjiao123sun/llm-controlgen)  ![](https://img.shields.io/github/stars/sunjiao123sun/llm-controlgen.svg)
+    
+# Theory
 
 # Collborators
 <a href="https://github.com/HqWu-HITCS"><img src="https://avatars.githubusercontent.com/u/29895268?v=4" alt="图片描述" style="width:5%;"/></a>
