@@ -3,6 +3,7 @@
 
 # Improvement
 
+
 # Evaluation
 - [EVALUATING LARGE LANGUAGE MODELS AT EVALUATING INSTRUCTION FOLLOWING](https://arxiv.org/pdf/2310.07641)
   - Tsinghua, Princeton, UIUC
@@ -27,7 +28,7 @@
     
 # Theory
 
-# Collborators
+# Contributors
 <a href="https://github.com/HqWu-HITCS"><img src="https://avatars.githubusercontent.com/u/29895268?v=4" alt="图片描述" style="width:5%;"/></a>
 <a href="https://github.com/yupeijei1997"><img src="https://avatars.githubusercontent.com/u/39047479?v=4" alt="图片描述" style="width:5%;"/></a>
 <a href="https://github.com/thinkwee"><img src="https://avatars.githubusercontent.com/u/11889052?v=4" alt="图片描述" style="width:5%;"/></a>
