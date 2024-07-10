@@ -13,7 +13,9 @@ The repository is still under active construction, and we welcome everyone to co
   - [WizardLM](https://github.com/nlpxucan/WizardLM)  ![](https://img.shields.io/github/stars/nlpxucan/WizardLM.svg)
 - [Chain-of-Instructions: Compositional Instruction Tuning on Large Language Models](https://arxiv.org/pdf/2402.11532)
   - University of Minnesota, Amazon AGI, Grammarly
-
+- [Instruction Pre-Training: Language Models are Supervised Multitask Learners](https://arxiv.org/pdf/2406.14491)
+  - Microsoft Research, Tsinghua University
+  - [LMOps](https://github.com/microsoft/LMOps)  ![](https://img.shields.io/github/stars/microsoft/LMOps.svg)
 
 # Evaluation
 - [Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators](https://arxiv.org/pdf/2404.04475)
