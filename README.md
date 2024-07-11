@@ -7,10 +7,10 @@ Excellent **IF (Instruction Following)** capabilities are the foundation for bui
 The repository is still under active construction, and we welcome everyone to collaborate and contribute!
 
 # Method
--  [SELF-PLAY WITH EXECUTION FEEDBACK: IMPROVING INSTRUCTION-FOLLOWING CAPABILITIES OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2406.13542)
+- [SELF-PLAY WITH EXECUTION FEEDBACK: IMPROVING INSTRUCTION-FOLLOWING CAPABILITIES OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2406.13542)
   - Alibaba
   - [AutoIF](https://github.com/QwenLM/AutoIF)  ![](https://img.shields.io/github/stars/QwenLM/AutoIF.svg)
--  [LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/pdf/2402.04333)
+- [LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/pdf/2402.04333)
   - Princeton University, University of Washington
   - ICML 2024
   - [LESS](https://github.com/princeton-nlp/less)  ![](https://img.shields.io/github/stars/princeton-nlp/less.svg)
