@@ -7,6 +7,13 @@ Excellent **IF (Instruction Following)** capabilities are the foundation for bui
 The repository is still under active construction, and we welcome everyone to collaborate and contribute!
 
 # Method
+-  [SELF-PLAY WITH EXECUTION FEEDBACK: IMPROVING INSTRUCTION-FOLLOWING CAPABILITIES OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2406.13542)
+  - Alibaba
+  - [AutoIF](https://github.com/QwenLM/AutoIF)  ![](https://img.shields.io/github/stars/QwenLM/AutoIF.svg)
+-  [LESS: Selecting Influential Data for Targeted Instruction Tuning](https://arxiv.org/pdf/2402.04333)
+  - Princeton University, University of Washington
+  - ICML 2024
+  - [LESS](https://github.com/princeton-nlp/less)  ![](https://img.shields.io/github/stars/princeton-nlp/less.svg)
 - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/pdf/2304.12244)
   - Microsoft, Peking University
   - ICLR 2024
@@ -61,8 +68,6 @@ The repository is still under active construction, and we welcome everyone to co
 - [Evaluating Large Language Models on Controlled Generation Tasks](https://arxiv.org/pdf/2310.14542)
   - USC, UC, ETH, Amazon, Deepmind
   - [llm-controlgen](https://github.com/sunjiao123sun/llm-controlgen)  ![](https://img.shields.io/github/stars/sunjiao123sun/llm-controlgen.svg)
-    
-# Theory
 
 # Contributors
 <a href="https://github.com/HqWu-HITCS"><img src="https://avatars.githubusercontent.com/u/29895268?v=4" alt="图片描述" style="width:5%;"/></a>
