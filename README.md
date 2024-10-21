@@ -7,6 +7,9 @@ Excellent **IF (Instruction Following)** capabilities are the foundation for bui
 The repository is still under active construction, and we welcome everyone to collaborate and contribute!
 
 # Method
+- [DO LLMS “KNOW” INTERNALLY WHEN THEY FOLLOW INSTRUCTIONS?](https://arxiv.org/pdf/2410.14516)
+  - Cambridge, Apple
+  - In submission to ICLR 2025
 - [SELF-PLAY WITH EXECUTION FEEDBACK: IMPROVING INSTRUCTION-FOLLOWING CAPABILITIES OF LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2406.13542)
   - Alibaba
   - [AutoIF](https://github.com/QwenLM/AutoIF)  ![](https://img.shields.io/github/stars/QwenLM/AutoIF.svg)
