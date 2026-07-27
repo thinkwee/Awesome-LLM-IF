@@ -28,6 +28,10 @@ The repository is still under active construction, and we welcome everyone to co
   - [LMOps](https://github.com/microsoft/LMOps)  ![](https://img.shields.io/github/stars/microsoft/LMOps.svg)
 
 # Evaluation
+- [StructEval: Benchmarking LLMs' Capabilities to Generate Structural Outputs](https://arxiv.org/abs/2505.20139)
+  - University of Waterloo, University of Toronto, HKUST, Shanghai University, Vector Institute, University of British Columbia
+  - TMLR 2025
+  - [StructEval](https://github.com/TIGER-AI-Lab/StructEval)  ![](https://img.shields.io/github/stars/TIGER-AI-Lab/StructEval.svg)
 - [Length-Controlled AlpacaEval: A Simple Way to Debias Automatic Evaluators](https://arxiv.org/pdf/2404.04475)
   - Stanford University, Independent Researcher
   - [alpaca_eval](https://github.com/tatsu-lab/alpaca_eval)  ![](https://img.shields.io/github/stars/tatsu-lab/alpaca_eval.svg)
