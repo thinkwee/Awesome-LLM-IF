@@ -7,6 +7,9 @@ Excellent **IF (Instruction Following)** capabilities are the foundation for bui
 The repository is still under active construction, and we welcome everyone to collaborate and contribute!
 
 # Method
+- [Translate-and-Revise: Boosting Large Language Models for Constrained Translation](https://arxiv.org/pdf/2407.13164)
+  - Northeastern University (China), NiuTrans Research, JP Morgan
+  - CCL 2024
 - [DO LLMS “KNOW” INTERNALLY WHEN THEY FOLLOW INSTRUCTIONS?](https://arxiv.org/pdf/2410.14516)
   - Cambridge, Apple
   - In submission to ICLR 2025
